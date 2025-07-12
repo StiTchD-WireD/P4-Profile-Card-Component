@@ -100,7 +100,7 @@ strong {
 .stats > p {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: top;
     justify-content: center;
     
     font-size: 0.7rem;
