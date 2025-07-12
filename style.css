@@ -114,7 +114,7 @@ strong {
 .stats > p > strong {
     font-size: 1.8em;
     color: var(--navy-950);
-    margin-bottom: 0.01rem;
+  
     letter-spacing: 0.04rem;
     padding: 0;
 }
