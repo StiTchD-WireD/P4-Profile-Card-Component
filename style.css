@@ -134,7 +134,7 @@ strong {
     .card {
         margin: 15% auto;
         max-width: 26rem;
-        height: 24rem;
+        height: 25rem;
 
         background-image: url(./images/bg-pattern-card.svg);
         background-repeat: no-repeat;
